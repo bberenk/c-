@@ -1,0 +1,7 @@
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\bin\Debug\siparisTakip.exe.config
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\bin\Debug\siparisTakip.exe
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\bin\Debug\siparisTakip.pdb
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\obj\Debug\siparisTakip.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\obj\Debug\siparisTakip.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\obj\Debug\siparisTakip.exe
+C:\Users\murat\source\repos\siparisTakip\siparisTakip\obj\Debug\siparisTakip.pdb
